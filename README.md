@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hey, I'm Ethan Potter 👋</h1>
   <p><strong>Full Stack Developer & AI Engineer</strong></p>
-  <p>Building intelligent, scalable web applications at the intersection of full-stack development and artificial intelligence.</p>
+  <p>Building intelligent, scalable web applications at the intersection of full stack development and artificial intelligence.</p>
 </div>
 
 ---

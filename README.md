@@ -10,7 +10,7 @@
 
 Results-driven engineer with 8+ years of experience across distributed systems, blockchain protocols, and applied AI. I architect solutions where on-chain transparency and off-chain intelligence converge — from DeFi automation to AI-native dApps.
 
-- Currently: **Independent consultant** — Blockchain + AI integration
+- Currently: **Independent consultant** - Blockchain + AI integration
 - Focus areas: **Smart contract AI agents**, verifiable inference, on-chain data pipelines
 - Core infrastructure: **EVM chains**, Solana, IPFS, Chainlink, The Graph
 - Certified: **Certified Blockchain Developer (Ethereum)** | AWS Solutions Architect | deeplearning.ai

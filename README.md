@@ -105,9 +105,3 @@ Full-stack engineer with **8+ years** delivering production-grade systems across
 
 
 
-
----
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/ethanpotter/ethanpotter/output/snake.svg" alt="Snake animation" />
-</div>

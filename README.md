@@ -90,18 +90,7 @@ Full-stack engineer with **8+ years** delivering production-grade systems across
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ethanpotter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanpotter&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanpotter&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🏆 Achievements
 
@@ -113,28 +102,9 @@ Full-stack engineer with **8+ years** delivering production-grade systems across
 
 ---
 
-## 📚 Latest Blog Posts
 
-- [Building Production RAG Systems with LangChain and Pinecone](https://ethanpotter.dev/blog/rag-production)
-- [Full-Stack AI: From Python Model to React App](https://ethanpotter.dev/blog/fullstack-ai)
-- [Scaling Next.js with Serverless AI Inference](https://ethanpotter.dev/blog/nextjs-ai)
-- [The Future of Full-Stack Development: AI-Native Applications](https://ethanpotter.dev/blog/ai-native)
 
----
 
-## 🤝 Let's Connect
-
-I'm always open to collaboration on:
-- Full-stack AI projects
-- Open-source contributions
-- Technical speaking engagements
-- Mentoring and knowledge sharing
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ethanpotter&color=blueviolet&style=flat-square" alt="Profile views" />
-    <br/>
-    <i>"Building the future, one line of code at a time"</i>
-</div>
 
 ---
 
